@@ -1,0 +1,4 @@
+flask
+threading
+discord
+discord.py
